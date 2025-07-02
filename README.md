@@ -113,3 +113,5 @@ $$
   1 & a_m & a_m^2 & \cdots & a_m^n \\
   \end{pmatrix}
 $$
+<font color="red">这段文字是红色的！</font>
+<p style="color:blue">这段文字是蓝色的。</p>
