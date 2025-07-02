@@ -95,5 +95,5 @@ _这是另一种斜体文本_
 ``` lua
 qwer
 ```
-
+<p style="text-align:center">这段文字居中显示。</p>
 
